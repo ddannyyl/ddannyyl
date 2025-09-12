@@ -35,7 +35,7 @@ Passionate data, software and product!
 - 🌱 I’m currently learning about data science  
   
 
-- 💼Looking for fall 2025 internships  
+- 💼Looking for summer 2026 internships  
 
 
 </td><td valign="top" width="50%">
