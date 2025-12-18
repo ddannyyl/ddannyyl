@@ -17,7 +17,7 @@ Some of my work: [My portfolio](https://www.dannyliang.co/)
 
 
 ### Glad to see you here!  
-Passionate data, software and product!  
+Passionate about data, software and product!  
   
 
 <br/>  
