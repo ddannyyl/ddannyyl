@@ -25,10 +25,9 @@
 
 <p align="center">
   🎓 Engineering @ University of Waterloo<br>
-  🔭 Building ML projects<br>
-  🌱 Learning data science & quant<br>
+  🔭 Building projects<br>
+  🌱 Figuring it out<br>
   🏋️ Lifting weights in my free time<br>
-  💼 Seeking <b>Summer 2026 internships</b>
 </p>
 
 ---
