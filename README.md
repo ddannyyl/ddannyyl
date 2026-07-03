@@ -1,8 +1,8 @@
-<h1 align="center">Glad to see you here 👋</h1>
+<h1 align="center">What up 👋</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&color=6E7681&lines=Full+Stack+Developer;Data+Engineer;AI+Engineer;Product+Manager"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&color=6E7681&lines=Full+Stack+Developer;Data;AI;Product"
     alt="Typing roles"
   />
 </p>
@@ -25,9 +25,9 @@
 
 <p align="center">
   🎓 Engineering @ University of Waterloo<br>
-  🔭 Building projects<br>
-  🌱 Figuring it out<br>
+  <!-- 🔭 Building projects<br> -->
   🏋️ Lifting weights in my free time<br>
+  🌱 Commiting to the bit<br>
 </p>
 
 ---
