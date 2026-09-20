@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">yooooooooooooooooooooo 👋</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&color=6E7681&lines=Full+Stack+Developer;Data;AI;Product"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&color=6E7681&lines=Full+Stack;Data;AI;Product"
     alt="Typing roles"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/liang-danny/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" />
   </a>
@@ -17,7 +17,7 @@
   <a href="https://www.dannyliang.co/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="26" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">🛠 Languages & Tools</h3>
+<!-- <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
@@ -45,4 +45,4 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="38"/>
-</p>
+</p> -->
